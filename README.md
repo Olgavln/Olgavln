@@ -2,7 +2,7 @@ Header
 
 # Olga Palamarchuk
 
-I am Olga from Ukraine and I have been doing web development for over a year. I make high-quality cross-browser and adaptive layout using the BEM methodology. It is interesting to try myself in the role of a project manager, as I love teamwork and always aim for a result.
+#### I am Olga from Ukraine and I am doing web development. I make high-quality cross-browser and adaptive layout using the BEM methodology. I am constantly developing and improving my skills.
 
 ## Skills and Experience
 
@@ -17,12 +17,12 @@ I am Olga from Ukraine and I have been doing web development for over a year. I 
 ![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp&logocolor=ff5050)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logocolor=f2f2f2) <br>
 ![БиблиотекиJS](https://img.shields.io/badge/-БиблиотекиJS-090909?style=for-the-badge&logo=БиблиотекиJS&logocolor=ffdb4d)
-![БиблиотекиjQuery](https://img.shields.io/badge/-БиблиотекиjQuery-090909?style=for-the-badge&logo=БиблиотекиjQuery&logocolor=0099ff)
+![БиблиотекаjQuery](https://img.shields.io/badge/-БиблиотекаjQuery-090909?style=for-the-badge&logo=БиблиотекаjQuery&logocolor=0099ff)
 
 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olgavln)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olgavln)](https://github.com/anuraghazra/github-readme-stats)-->
 
-Follow me
+

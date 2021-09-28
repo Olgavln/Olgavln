@@ -10,14 +10,14 @@ I am Olga from Ukraine and I have been doing web development for over a year. I 
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logocolor=0066ff)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS&logocolor=ff3399)
 ![LESS](https://img.shields.io/badge/-LESS-090909?style=for-the-badge&logo=LESS&logocolor=003d99)
-![БиблиотекиJS](https://img.shields.io/badge/-БиблиотекиJS-090909?style=for-the-badge&logo=БиблиотекиJS&logocolor=ffdb4d)
-![БиблиотекиjQuery](https://img.shields.io/badge/-БиблиотекиjQuery-090909?style=for-the-badge&logo=БиблиотекиjQuery&logocolor=0099ff)
-![FlexBox](https://img.shields.io/badge/-FlexBox-090909?style=for-the-badge&logo=FlexBox&logocolor=0099ff)
+![FlexBox](https://img.shields.io/badge/-FlexBox-090909?style=for-the-badge&logo=FlexBox&logocolor=0099ff) <br>
 ![Grid](https://img.shields.io/badge/-Grid-090909?style=for-the-badge&logo=Grid&logocolor=ffffff)
 ![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-090909?style=for-the-badge&logo=Bootstrap5&logocolor=9933ff)
 ![БЭМ](https://img.shields.io/badge/-БЭМ-090909?style=for-the-badge&logo=БЭМ&logocolor=ffffff)
 ![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp&logocolor=ff5050)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logocolor=f2f2f2)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logocolor=f2f2f2) <br>
+![БиблиотекиJS](https://img.shields.io/badge/-БиблиотекиJS-090909?style=for-the-badge&logo=БиблиотекиJS&logocolor=ffdb4d)
+![БиблиотекиjQuery](https://img.shields.io/badge/-БиблиотекиjQuery-090909?style=for-the-badge&logo=БиблиотекиjQuery&logocolor=0099ff)
 
 
 

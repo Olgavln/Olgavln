@@ -19,8 +19,10 @@
 ![БиблиотекиJS](https://img.shields.io/badge/-БиблиотекиJS-090909?style=for-the-badge&logo=БиблиотекиJS&logocolor=ffdb4d)
 ![БиблиотекаjQuery](https://img.shields.io/badge/-БиблиотекаjQuery-090909?style=for-the-badge&logo=БиблиотекаjQuery&logocolor=0099ff)
 
-[![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-
+[![GitHub Projects](https://img.shields.io/badge/-GitHub%20Projects-090909?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
+[![Notion](https://img.shields.io/badge/-Notion-090909?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+[![Slack](https://img.shields.io/badge/-Slack-090909?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/)
+[![Coursera](https://img.shields.io/badge/-Coursera-090909?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/)
 
 
 

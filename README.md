@@ -1,8 +1,8 @@
 
 
-# Olga Palamarchuk
+# Olha Leontyeva
 
-#### I am Olga from Ukraine and I am doing web development. I make high-quality cross-browser and adaptive layout using the BEM methodology. I am constantly developing and improving my skills.
+#### I’m Olga from Ukraine — a web developer shifting focus toward project management. I specialize in creating high-quality, cross-browser, and responsive layouts using the BEM methodology. Currently, I’m building my career as a Junior Project Manager. I apply Agile practices, organize sprint planning, and manage project workflows using GitHub Projects and Kanban boards. I’ve completed project management courses on Coursera and continue to grow both technically and as a team coordinator.
 
 ## Skills and Experience
 
@@ -18,6 +18,8 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logocolor=f2f2f2) <br>
 ![БиблиотекиJS](https://img.shields.io/badge/-БиблиотекиJS-090909?style=for-the-badge&logo=БиблиотекиJS&logocolor=ffdb4d)
 ![БиблиотекаjQuery](https://img.shields.io/badge/-БиблиотекаjQuery-090909?style=for-the-badge&logo=БиблиотекаjQuery&logocolor=0099ff)
+
+[![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 
 
 

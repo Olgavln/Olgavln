@@ -17,6 +17,7 @@
 ![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-090909?style=for-the-badge&logo=Bootstrap5&logocolor=9933ff)
 ![БЭМ](https://img.shields.io/badge/-БЭМ-090909?style=for-the-badge&logo=БЭМ&logocolor=ffffff)
 ![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp&logocolor=ff5050)
+[![WordPress](https://img.shields.io/badge/-WordPress-090909?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logocolor=f2f2f2) <br>
 ![БиблиотекиJS](https://img.shields.io/badge/-БиблиотекиJS-090909?style=for-the-badge&logo=БиблиотекиJS&logocolor=ffdb4d)
 ![БиблиотекаjQuery](https://img.shields.io/badge/-БиблиотекаjQuery-090909?style=for-the-badge&logo=БиблиотекаjQuery&logocolor=0099ff)
